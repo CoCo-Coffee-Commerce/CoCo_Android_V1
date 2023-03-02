@@ -13,4 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "CoCo_Android_Client_V1"
-include ':app'
+include ':presentation'
+include ':domain'
+include ':di'
+include ':data'
