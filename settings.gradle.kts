@@ -12,8 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "CoCo_Android_Client_V1"
-include ':presentation'
-include ':domain'
-include ':di'
-include ':data'
+
+include(":presentation", ":data", ":domain", ":di")
