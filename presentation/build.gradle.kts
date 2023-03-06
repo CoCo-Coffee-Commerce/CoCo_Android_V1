@@ -37,7 +37,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.4.2"
+        kotlinCompilerExtensionVersion = AppConfig.KOTLIN_COPILER_EXTENSION_VERSION
     }
 }
 

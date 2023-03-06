@@ -6,4 +6,6 @@ object AppConfig {
     const val VERSION_CODE = 1
     const val VERSION_NAME = "0.0.1"
     const val APPLICATION_ID = "com.android.coco.client"
+
+    const val KOTLIN_COPILER_EXTENSION_VERSION = "1.4.2"
 }
