@@ -9,7 +9,7 @@ object Versions {
     const val ACTIVITY_COMPOSE = "1.3.1"
     const val COMPOSE_UI = "1.3.3"
     const val COMPOSE_UI_PREVIEW_TOOLING = "1.3.3"
-    const val COMPOSE_MATERIAL_THREE = "1.0.0-alpha02"
+    const val COMPOSE_MATERIAL_THREE = "1.0.1"
     const val COMPOSE_VERSION = "1.3.3"
 
     // Test
